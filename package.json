@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tashu1990/To-Do-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tashu1990/To-Do-list/issues"
+  },
+  "homepage": "https://github.com/Tashu1990/To-Do-list#readme",
+  "dependencies": {
+    "eslint": "^6.0.0",
+    "htmllint-cli": "0.0.7",
+    "stylelint": "^10.1.0"
+  }
+}
