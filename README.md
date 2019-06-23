@@ -7,10 +7,10 @@
 # How to check for lintings
 
 ## HTML
-- htmllint index.html
+- `htmllint index.html`
 
 ## CSS
-- stylelint todo.css
+- `stylelint todo.css`
 
 ## JavaScript
-- eslint todo.js
+- `eslint todo.js`
